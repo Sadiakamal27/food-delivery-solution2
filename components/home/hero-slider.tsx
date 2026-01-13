@@ -15,11 +15,7 @@ const slides = [
     image: "/images/2recreated.jpg",
     title: "New Specials",
   },
-  {
-    image: "/images/christmasbanner.jpg",
-    title: "Complete Your Meal",
-  },
-  {
+ {
     image: "/images/3 banner.png",
     title: "Delicious Food",
   },
